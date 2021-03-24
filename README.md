@@ -1,1 +1,1 @@
-# wily-query
+# FirestoryQuery
